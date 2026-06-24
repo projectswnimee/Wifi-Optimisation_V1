@@ -355,8 +355,9 @@ For our network: V=14 nodes, E=15 edges = O(110) operations. For a national ISP 
 ### Results — Phase 2
 
 **Network path graph:**
-
-![Dijkstra Path](graphs/dijkstra_path.png)
+<div align="center">
+  <img width="2250" height="900" alt="real_dijkstra_multi_destination" src="https://github.com/user-attachments/assets/74b20176-eab9-4c20-8642-01548539e647" />
+</div>
 
 **Path comparison:**
 
@@ -375,8 +376,9 @@ Dijkstra correctly identified the 314 ms path as minimum.
 ## Complexity Analysis
 
 **D&C vs Linear scan benchmark:**
-
-<img width="500" height="500" alt="complexity_growth" src="https://github.com/user-attachments/assets/2ac366e6-fb27-4157-b428-233ccec72272" />
+<div align="center">
+  <img width="600" height="600" alt="complexity_growth" src="https://github.com/user-attachments/assets/2ac366e6-fb27-4157-b428-233ccec72272" />
+</div>
 
 | Input size | D&C (ms) | Linear (ms) | D&C overhead |
 |---|---|---|---|
