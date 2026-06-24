@@ -244,14 +244,19 @@ Ch 7 → overlaps NO busy channels → n=0, φ=-∞  ← WINNER
 
 Recommendation: Switch to Channel 7
 ```
+<img width="586" height="846" alt="image" src="https://github.com/user-attachments/assets/9d4da991-58a2-4f63-bd48-e506b0536e3c" />
+
 
 **Channel analysis graph:**
 
-![Channel Analysis](graphs/channel_analysis.png)
+<img width="1950" height="750" alt="channel_analysis" src="https://github.com/user-attachments/assets/66a5f28c-6315-4a89-b941-a25de9c33146" />
 
 **Before/after ping comparison:**
 
-![Ping Comparison](graphs/ping_comparison.png)
+<img width="792" height="846" alt="image" src="https://github.com/user-attachments/assets/5ec71f70-08a4-4957-9449-80d01990100b" />
+<img width="795" height="842" alt="image" src="https://github.com/user-attachments/assets/6b370fc7-6d91-4e8e-9eff-03b19bd010c6" />
+
+
 
 **Before/after proof screenshots:**
 
