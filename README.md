@@ -254,22 +254,20 @@ Recommendation: Switch to Channel 7
 
 **Before/after ping comparison:**
 
-<img width="792" height="846" alt="image" src="https://github.com/user-attachments/assets/5ec71f70-08a4-4957-9449-80d01990100b" />
-<img width="795" height="842" alt="image" src="https://github.com/user-attachments/assets/6b370fc7-6d91-4e8e-9eff-03b19bd010c6" />
-
-
-
-**Before/after proof screenshots:**
-
 The screenshots below show the router admin panel and ping logger running simultaneously before and after the channel switch.
 
 Before — Channel 2 (busy, neighbour occupying it):
 - Raw average: 47.9 ms
 - Spikes detected: 12
-
+<div align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5ec71f70-08a4-4957-9449-80d01990100b" />
+</div>
 After — Channel 7 (zero interference):
 - Raw average: 45.5 ms
 - Spikes detected: 5
+<div align="center">
+ <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6b370fc7-6d91-4e8e-9eff-03b19bd010c6" />
+</div>
 
 **Result: 58% reduction in ping spikes after switching to the algorithm-recommended channel.**
 
