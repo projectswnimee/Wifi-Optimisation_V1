@@ -377,7 +377,7 @@ Dijkstra correctly identified the 314 ms path as minimum.
 
 **D&C vs Linear scan benchmark:**
 
-![Complexity Growth](graphs/complexity_growth.png)
+<img width="500" height="500" alt="complexity_growth" src="https://github.com/user-attachments/assets/2ac366e6-fb27-4157-b428-233ccec72272" />
 
 | Input size | D&C (ms) | Linear (ms) | D&C overhead |
 |---|---|---|---|
