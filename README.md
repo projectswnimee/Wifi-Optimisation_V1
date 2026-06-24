@@ -244,7 +244,10 @@ Ch 7 → overlaps NO busy channels → n=0, φ=-∞  ← WINNER
 
 Recommendation: Switch to Channel 7
 ```
-<img width="586" height="846" alt="image" src="https://github.com/user-attachments/assets/9d4da991-58a2-4f63-bd48-e506b0536e3c" />
+<div align="center">
+  <img src="<img width="586" height="846" alt="image" src="https://github.com/user-attachments/assets/8ecb66a8-f4ec-494d-a268-1e5ae819d672" />
+" width="500">
+</div>
 
 
 **Channel analysis graph:**
